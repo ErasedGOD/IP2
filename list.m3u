@@ -574,8 +574,3 @@ https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews_1800/chunkl
 http://videos.rtva.ad:1935/live/rtva/playlist.m3u8
 #EXTINF:-1 tvg-id="ATVCW.TDTChannelsEPG" tvg-logo="http://graph.facebook.com/rtva.andorra/picture?width=320&height=320" group-title="Andorra",ATV Web HD
 http://videos.rtva.ad:1935/live/web/playlist.m3u8
-#EXTINF:-1,=====PORTUGAL=====
-#EXTINF:-1 tvg-id="none" tvg-logo="http://www.rtv.com.pt/images/logo.png" group-title="Portugal",Regioes TV
-https://www.youtube.com/watch?v=yhQPpMJP7c8
-#EXTINF:-1 tvg-id="none" tvg-logo="http://www.rtv.com.pt/images/logo.png" group-title="Portugal",Minho TV
-https://www.youtube.com/watch?v=JG3OJsjIAWE
