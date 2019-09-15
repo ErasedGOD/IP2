@@ -17,3 +17,8 @@ https://live.impresa.pt/live/sicrad/sicrad540p.m3u8
 http://video-auth8.iol.pt/live_tvi_direct/live_tvi_direct/playlist.m3u8
 #EXTINF:-1 tvg-id="CancaoNova.PT" "tvg-logo="http://www.cancaonova.pt/wp-content/uploads/2015/11/logo_cnok.png",CANCAO NOVA
 https://cancaonova.secure.footprint.net/egress/bhandler/cancaonovanew/channel01/stream1.m3u8
+#EXTINF:-1,===== TVS LOCAIS=====
+#EXTINF:-1 tvg-id="none" tvg-logo="http://www.rtv.com.pt/images/logo.png" group-title="Portugal",Regioes TV
+https://www.youtube.com/watch?v=yhQPpMJP7c8
+#EXTINF:-1 tvg-id="none" tvg-logo="http://www.rtv.com.pt/images/logo.png" group-title="Portugal",Minho TV
+https://www.youtube.com/watch?v=JG3OJsjIAWE
