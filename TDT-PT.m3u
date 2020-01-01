@@ -5,8 +5,6 @@ http://streaming-live-app.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8
 http://streaming-live-app.rtp.pt/liverepeater/smil:rtp2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="SIC"  group-title="Entertainment",SIC
 http://live.impresa.pt/live/sic/sic.m3u8
-#EXTINF:-1 tvg-id="SIC"  group-title="Entertainment",SIC 2
-http://iptv4.premium-stv.com:8000/live/PORTUGALSNOW/l4JtFslY2f/1017.ts
 #EXTINF:-1 tvg-id="TVI"  group-title="Entertainment",TVI
 http://video-auth8.iol.pt/live_tvi/live_tvi/playlist.m3u8
 #EXTINF:-1 tvg-id="SICN" group-title="News",SIC Notícias
@@ -29,14 +27,6 @@ http://streaming-live-app.rtp.pt/liverepeater/smil:rtpacores.smil/playlist.m3u8
 http://streaming-live-app.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RTPI" group-title="Entertainment",RTP Internacional
 http://streaming-live-app.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="PORTO" group-title="Entertainment",Porto Canal
-#EXTVLCOPT:http-referrer=http://portocanal.sapo.pt/live
-https://ptiptv.tk/porto.m3u8?B0dei1lu-8AC4lBUxTAeVQmG5eI
-#EXTINF:-1  tvg-language="pt" group-title="News",Euronews 🇵🇹
-https://ptiptv.tk/euronews-pt.m3u8?B0dei1lu-8AC4lBUxTAeVQmG5eIr.m3u8
-#EXTINF:-1 tvg-id="ZIGZAG"  group-title="Kids",Zig Zag
-#EXTINF:-1 tvg-id="C180" group-title="Arts",Canal 180
-http://noscdne.entrprise.tv:1935/live/canal180.stream/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment",TVI Reality
 http://video-auth8.iol.pt/live_tvi_direct/live_tvi_direct/playlist.m3u8
 #EXTINF:-1,DJTV Portugal
