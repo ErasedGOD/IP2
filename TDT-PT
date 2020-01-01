@@ -1,0 +1,76 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="RTP1" group-title="Entertainment",RTP 1
+http://streaming-live-app.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RTP2" group-title="Entertainment",RTP 2
+http://streaming-live-app.rtp.pt/liverepeater/smil:rtp2.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="SIC"  group-title="Entertainment",SIC
+http://live.impresa.pt/live/sic/sic.m3u8
+#EXTINF:-1 tvg-id="SIC"  group-title="Entertainment",SIC 2
+http://iptv4.premium-stv.com:8000/live/PORTUGALSNOW/l4JtFslY2f/1017.ts
+#EXTINF:-1 tvg-id="TVI"  group-title="Entertainment",TVI
+http://video-auth8.iol.pt/live_tvi/live_tvi/playlist.m3u8
+#EXTINF:-1 tvg-id="SICN" group-title="News",SIC Notícias
+http://live.impresa.pt/live/sicnot/sicnot.m3u8
+#EXTINF:-1 tvg-id="RTP3" group-title="News",RTP 3
+http://streaming-live-app.rtp.pt/liverepeater/smil:rtpn.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVI24"  group-title="News",TVI 24
+http://video-auth8.iol.pt/live_tvi24/live_tvi24/playlist.m3u8
+#EXTINF:-1 tvg-id="ARTV" group-title="News",ARTV
+http://193.126.16.68:1935/livenlin4/mp4:2liveartvpub/playlist.m3u8
+#EXTINF:-1,AR TV
+http://193.126.16.68:1935/livenlin4/2liveartvpub/playlist.m3u8
+#EXTINF:-1 tvg-id="RTPM" group-title="Entertainment",RTP Memória
+http://streaming-live-app.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RTPMD" group-title="Entertainment",RTP Madeira
+http://streaming-live-app.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RTPAC" group-title="Entertainment",RTP Açores
+http://streaming-live-app.rtp.pt/liverepeater/smil:rtpacores.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RTPA" group-title="Entertainment",RTP África
+http://streaming-live-app.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RTPI" group-title="Entertainment",RTP Internacional
+http://streaming-live-app.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="PORTO" group-title="Entertainment",Porto Canal
+#EXTVLCOPT:http-referrer=http://portocanal.sapo.pt/live
+https://ptiptv.tk/porto.m3u8?B0dei1lu-8AC4lBUxTAeVQmG5eI
+#EXTINF:-1  tvg-language="pt" group-title="News",Euronews 🇵🇹
+https://ptiptv.tk/euronews-pt.m3u8?B0dei1lu-8AC4lBUxTAeVQmG5eIr.m3u8
+#EXTINF:-1 tvg-id="ZIGZAG"  group-title="Kids",Zig Zag
+#EXTINF:-1 tvg-id="C180" group-title="Arts",Canal 180
+http://noscdne.entrprise.tv:1935/live/canal180.stream/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment",TVI Reality
+http://video-auth8.iol.pt/live_tvi_direct/live_tvi_direct/playlist.m3u8
+#EXTINF:-1,DJTV Portugal
+https://vod.djtv.pt/djtv/tracks-v1a1/mono.m3u8
+#EXTINF:-1,ON FM HD
+https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8
+#EXTINF:-1,Kuriakos Cine
+http://c2.manasat.com:1935/kcine/kcine3/playlist.m3u8
+#EXTINF:-1,Kuriakos TV HD
+http://195.22.11.11:1935/ktv/ktv1/playlist.m3u8
+#EXTINF:-1,Kuriakos Kids HD
+http://c2.manasat.com:1935/kkids/kkids3/playlist.m3u8
+#EXTINF:-1,Kuriakos Music HD
+http://c2.manasat.com:1935/kmusic/kmusic3/playlist.m3u8
+#EXTINF:-1,Capelinha das Aparições
+http://213.13.26.11:1935/live/santuario.stream/chunklist.m3u8
+
+
+#EXTINF:-1,===== TVS LOCAIS=====
+#EXTINF:-1,Novum Canal
+https://stmv4.srvstm.com/novumcanal/novumcanal/playlist.m3u8
+#EXTINF:-1,Canal Braga HD
+https://59f2354c05961.streamlock.net:1443/canalb/_definst_/canalb/playlist.m3u8
+#EXTINF:-1,Leiria TV HD
+http://tv02.logicahost.com.br:1935/tvnovus/tvnovus/playlist.m3u8
+#EXTINF:-1,Agueda TV HD
+http://www.agueda.tv:8080/hls/stream.m3u8
+#EXTINF:-1,STV HD
+http://livestreamcdn.net:1935/SobrenaturalTV/SobrenaturalTV/chunklist_w1459375308.m3u8
+#EXTINF:-1,AD Almada TV
+http://88.198.22.8:1935/adalmada_tv/ngrp:adalmada_tv_all/playlist.m3u8
+#EXTINF:-1,Radio Sines TV
+https://video01.kshost.com.br/associacao9628/associacao9628/playlist.m3u8
+#EXTINF:-1,Radio Clube TV 101.8
+https://5d82644094cc0.streamlock.net/clubefmtv/clubefmtv/playlist.m3u8
+#EXTINF:-1,Matosinhos TV
+https://5d82644094cc0.streamlock.net:443/8030/8030/playlist.m3u8
