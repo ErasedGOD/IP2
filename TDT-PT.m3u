@@ -43,7 +43,8 @@ http://c2.manasat.com:1935/kkids/kkids3/playlist.m3u8
 http://c2.manasat.com:1935/kmusic/kmusic3/playlist.m3u8
 #EXTINF:-1,Capelinha das Aparições
 http://213.13.26.11:1935/live/santuario.stream/chunklist.m3u8
-
+#EXTINF:-1,Canção Nova
+http://tvajuhls-lh.akamaihd.net:80/i/tvdesk_1@147040/index_1080_av-p.m3u8
 
 #EXTINF:-1,===== TVS LOCAIS=====
 #EXTINF:-1,Novum Canal
